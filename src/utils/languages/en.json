@@ -1,0 +1,52 @@
+{
+  "welcome": "Welcome",
+  "router": {
+    "title": "AppLogist",
+    "back_title": "Back"
+  },
+  "side_menu": {
+    "home": {
+      "title": "Homepage",
+      "button_call": "Hook",
+      "button_called": "Changed"
+    },
+    "corporate": {
+      "title": "Corporate"
+    },
+    "take_send": {
+      "title": "Take/Send",
+      "list_title": "List"
+    },
+    "login": {
+      "title": "Login"
+    },
+    "logout": {
+      "title": "Logout"
+    }
+  },
+  "bottom_tab_menu": {
+    "take_send" : {
+      "title": "Suggestion",
+      "list_title": "Sugges. List",
+      "detail_title": "Detail"
+    },
+    "about": {
+      "title": "About",
+      "applogist": "Applogist"
+    }
+  },
+  "messages": {
+    "success" : {
+      "login": "Login success"
+    },
+    "warning": {
+      "login": "Please check username and password"
+    },
+    "error": {
+      "login": "Invalid user name or password"
+    },
+    "others": {
+      "empty_data": "Empty data"
+    }
+  }
+}

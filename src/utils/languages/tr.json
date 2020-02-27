@@ -1,0 +1,52 @@
+{
+  "welcome": "Hoşgeldiniz",
+  "router": {
+    "title": "AppLogist",
+    "back_title": "Geri"
+  },
+  "side_menu": {
+    "home": {
+      "title": "Anasayfa",
+      "button_call": "Change Title",
+      "button_called": "Değişti"
+    },
+    "corporate": {
+      "title": "Hakkımızda"
+    },
+    "take_send": {
+      "title": "İstek/Şikayet",
+      "list_title": "Liste"
+    },
+    "login": {
+      "title": "Giriş"
+    },
+    "logout": {
+      "title": "Çıkış"
+    }
+  },
+  "bottom_tab_menu": {
+    "take_send" : {
+      "title": "İstek/Şikayet",
+      "list_title": "İstek Listem",
+      "detail_title": "Detay"
+    },
+    "about": {
+      "title": "Hakkımızda",
+      "applogist": "Applogist"
+    }
+  },
+  "messages": {
+    "success" : {
+      "login": "Giriş işlemi başarılı"
+    },
+    "warning": {
+      "login": "Doğru formatta giriniz"
+    },
+    "error": {
+      "login": "Kullanıcı adı veya şifre hatası"
+    },
+    "others": {
+      "empty_data": "Veri bulunamadı"
+    }
+  }
+}
