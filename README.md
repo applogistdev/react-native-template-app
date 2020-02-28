@@ -4,7 +4,7 @@
 - [x] React Navigation v5 entegration
 - [x] Use of Drawer and Bottom Tab together route configuration
 - [x] Mobx entegration
-- [x] Fully Hooks. Not contain Class Object
+- [x] Fully Hooks. Does not contain Class Object
 - [x] Multi Language (by device language)
 - [x] Template
 - [x] File Structure
@@ -26,6 +26,7 @@
 ```
 git clone https://github.com/applogistdev/react-native-template-app.git
 cd react-native-template-app && npm install
+cd ios/ && pod install && cd ..
 ```
 Running on simulator or emulator run `react-native run-ios` or `react native run-android`
 
