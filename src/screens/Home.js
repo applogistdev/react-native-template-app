@@ -1,9 +1,12 @@
 import React, {useEffect, useState} from 'react';
 import EStyleSheet from 'react-native-extended-stylesheet';
 import {Text, View} from 'react-native';
+import LanguageStore from '../utils/store/LanguageStore';
 
 const Home = ({}) => {
-  const [message, setMessage] = useState("Default Homepage");
+  const [message, setMessage] = useState(
+    LanguageStore.resource.side_menu.home.title,
+  );
 
   useEffect(() => {
     //

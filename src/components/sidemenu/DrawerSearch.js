@@ -4,7 +4,6 @@ import Icon from 'react-native-vector-icons/FontAwesome5';
 import EStyleSheet from 'react-native-extended-stylesheet';
 
 export const DrawerSearch = ({}) => {
-
   return (
     <TouchableOpacity style={styles.container}>
       <Icon name="search" size={25} color={EStyleSheet.value('$gColor')} />

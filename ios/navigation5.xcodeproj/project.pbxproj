@@ -718,7 +718,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/navigation5.app/navigation5";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Template App.app/Template App";
 			};
 			name = Debug;
 		};
@@ -738,7 +738,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/navigation5.app/navigation5";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Template App.app/Template App";
 			};
 			name = Release;
 		};

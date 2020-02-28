@@ -1,11 +1,9 @@
-import React, {useEffect, useState} from 'react';
+import React from 'react';
 import EStyleSheet from 'react-native-extended-stylesheet';
 import {Text, View} from 'react-native';
-import RenderLoadingView from '../../../components/RenderLoadingView';
-import LanguageStore from "../../../utils/store/LanguageStore";
+import LanguageStore from '../../../utils/store/LanguageStore';
 
 const About = ({}) => {
-
   const render = () => {
     return (
       <View style={styles.container}>

@@ -4,7 +4,7 @@ import RenderLoadingView from '../../../components/RenderLoadingView';
 
 export const TakeSendList = ({}) => {
   const [isVisible, setIsVisible] = useState(true);
-  const [message, setMessage] = useState("List");
+  const [message, setMessage] = useState('List');
 
   useEffect(() => {
     //
